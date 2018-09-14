@@ -82,7 +82,7 @@ Using this sheet, it is possible to define an ascent rate of 5 m/s to separation
 
 ### Licence
 
-This project is distributed under an [MIT License](https://github.com/PaulZC/Balloon_Calculator/blob/master/LICENSE.md)
+This project is distributed under an [MIT License](https://github.com/PaulZC/Balloon_Calculator/blob/master/LICENSE)
 
 Enjoy!
 
