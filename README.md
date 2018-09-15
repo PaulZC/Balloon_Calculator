@@ -50,7 +50,7 @@ This sheet calculates the neck lift, burst altitude and time to burst for the ch
 - Cell C23 defines the balloon membrane pressure at burst. Leave this set to zero unless you have a more accurate figure.
 - Enter the desired ascent rate in cell C26.
 
-The spreadsheet uses Cardano's method to calculate the balloon diameter at launch by solving the drag equation. It will then calculate:
+The spreadsheet uses Cardano's method to solve the drag equation and calculate the balloon diameter at launch. It will then calculate:
 
 - The required balloon neck lift (in kg) in cell C39.
 - The required volume of gas in cell C41.
