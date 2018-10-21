@@ -59,7 +59,9 @@ The spreadsheet uses Cardano's method to solve the drag equation and calculate t
 - The approximate time to burst in cell C49.
 
 The altitude at which the balloon would float, if it does not burst first, is calculated in cell C50.
-Cell C51 indicates whether the balloon will float or burst. The balloon volume at float, as a percentage of the burst volume, is calculated in cell C55.
+Cell C51 indicates whether the balloon will float or burst.
+The time taken to achieve float is estimated in cell C52.
+The balloon volume at float, as a percentage of the burst volume, is calculated in cell C56.
 This indicates how close the balloon will be to bursting at float.
 
 ## Single_Balloon__Floater
